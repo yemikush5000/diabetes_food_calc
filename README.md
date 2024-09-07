@@ -1,1 +1,1 @@
-# diabetes_food_calc
+# diabetes_calc

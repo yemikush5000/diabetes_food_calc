@@ -1,0 +1,27 @@
+{
+  "name": "diabetes_calc",
+  "version": "1.0.0",
+  "description": "diabetes food calculator",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yemikush5000/carb_calculator_project.git"
+  },
+  "author": "Idowu Kusoro",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yemikush5000/carb_calculator_project/issues"
+  },
+  "homepage": "https://github.com/yemikush5000/carb_calculator_project#readme",
+  "dependencies": {
+    "ejs": "^3.1.10",
+    "express": "^4.19.2",
+    "nodemon": "^3.1.4"
+  }
+}
